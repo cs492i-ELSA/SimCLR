@@ -2,7 +2,7 @@ import os
 import torch
 from modules import SimCLR, LARS
 
-
+#test
 def load_optimizer(args, model):
 
     scheduler = None
